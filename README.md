@@ -13,4 +13,4 @@ CSS
 
 Conclusion
 
-*WIP 
+Fun and interesting project, I feel that Flexbox is a great tool. There are lots to learn but i'm glad to start. I'm pleased with design, and responsiveness looks decent. 
